@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # configs
-AUUID=**********************
-CADDYIndexPage=https://github.com/Externalizable/bongo.cat/archive/master.zip
+AUUID=453f854e-1ef8-4d25-aaa5-60c0bc62576d
+CADDYIndexPage=https://github.com/WebDevSimplified/Spotify-Landing-Page-Redesign/archive/master.zip
 CONFIGCADDY=/etc/Caddyfile
 CONFIGXRAY=/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
